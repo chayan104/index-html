@@ -215,6 +215,11 @@ body.menu-open{
         color: white;
     }
 
+    .cta-img-div img{
+        position: relative;
+        top: 20px;
+    }
+
 
 }
 
@@ -261,6 +266,11 @@ body.menu-open{
         gap: 20px;
     }
 
+    .cta-img-div img{
+        position: relative;
+        top: 20px;
+    }
+
 
 }
 
@@ -300,6 +310,11 @@ body.menu-open{
         display: flex;
         justify-content: center;
         gap: 20px;
+    }
+
+    .cta-img-div img{
+        position: relative;
+        top: 20px;
     }
 
 
@@ -343,6 +358,11 @@ body.menu-open{
         display: flex;
         justify-content: center;
         gap: 20px;
+    }
+
+    .cta-img-div img{
+        position: relative;
+        top: 20px;
     }
 
 
